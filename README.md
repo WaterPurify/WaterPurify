@@ -65,6 +65,7 @@ Master Degree of Electrical and Elecronic engineering ```(09/2021 ~ 08/2023)``` 
 
 ## Contact Me
 <span>
+    ysjo032468@gmail.com
     <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=Gmail&logoColor=white"/>
 </span>
 <span>
