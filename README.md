@@ -10,7 +10,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=👋Hello%2C+I'm+Youngsu+Jo;Deep+Learning+Scientist" alt="Typing SVG" /></a>
 <!-- My CV/resume -->
 <details>
-<summary>About Me</summary>
+<summary><b>About Me</b></summary>
 
 <div align="left">  
 
@@ -21,10 +21,7 @@ AI Research & Scientist
 Bachelor Degree of Electrical and Electronic engineering ```(09/2014 ~ 05/2021)``` (Texas A&M University, College Station)   
 Master Degree of Electrical and Elecronic engineering ```(09/2021 ~ 08/2023)``` (Sogang University, Seoul)   
 
-## ADDITIONAL SKILLS
-<span>
-    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
-</span>
+## COMPUTER SKILLS
 <span>
     <img src="https://img.shields.io/badge/ Matlab-red?style=plastic"/>
 </span>
@@ -38,9 +35,7 @@ Master Degree of Electrical and Elecronic engineering ```(09/2021 ~ 08/2023)``` 
 <span>
     <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
 </span>
-<span>
-    <img src="https://img.shields.io/badge/ jQuery-white?style=plastic&logo=jQuery&logoColor=black"/>
-</span>
+
 <span>
     <img src="https://img.shields.io/badge/ JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
 </span>
