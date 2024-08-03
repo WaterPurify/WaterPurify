@@ -72,7 +72,8 @@ Master Degree of Electrical and Elecronic engineering ```(09/2021 ~ 08/2023)``` 
 <!-- Hit counter -->
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunia3&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
 <br><br><br><be>
-## 🤝🏻 &nbsp;CONTACT
+
+## 🤝🏻 CONTACT
 
 <a href="mailto:ysjo032468@gmail.com"><img src="https://img.shields.io/badge/-ysjo032468@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
