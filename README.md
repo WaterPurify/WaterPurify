@@ -3,7 +3,7 @@
 
 <div align="center">
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:#0048ba,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&?color=0:#0066b2,25:#0d98ba,50:#002ed4,75:#d4002e,100:#00ad43&height=100&section=header&text=&fontSize=0" width="100%"/>
 <br><br>
     
 <!-- Title Typing Effect -->
