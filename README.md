@@ -18,8 +18,8 @@
 AI Research & Scientist  
 
 ## EDUCATION
-Bachelor Degree of Electrical and Electronic engineering ```(03/2016 ~ 08/2022)``` (Yonsei University, Seoul)   
-Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ 08/2024)``` (Yonsei University, Seoul)   
+Bachelor Degree of Electrical and Electronic engineering ```(09/2014 ~ 05/2021)``` (Texas A&M University, College Station)   
+Master Degree of Electrical and Elecronic engineering ```(09/2021 ~ 08/2023)``` (Sogang University, Seoul)   
 
 ## ADDITIONAL SKILLS
 <span>
