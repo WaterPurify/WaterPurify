@@ -43,11 +43,7 @@ Master Degree of Electrical and Elecronic engineering ```(09/2021 ~ 08/2023)``` 
     <img src="https://img.shields.io/badge/ LaTeX-black?style=plastic&logo=LaTeX&logoColor=white"/>
 </span>
 
-## Publications 
-**J. Park et al. "Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation"**  
-```WACV 2024```  Accept (Poster presentation)  
-**I. Yoon et al. "Enhancing Source-Free Domain Adaptive Object Detection with Low-confidence Pseudo Label Distillation"**  
-```ECCV 2024```  Accept  
+## Publications
 
 </div>
 </div>
