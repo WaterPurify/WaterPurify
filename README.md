@@ -49,10 +49,6 @@ Master Degree of Electrical and Elecronic engineering ```(09/2021 ~ 08/2023)``` 
     <img src="https://img.shields.io/badge/SQL-336791?style=plastic&logo=SQLite&logoColor=white"/>
 </span>
 
-
-
-## Publications
-
 </div>
 </div>
 
