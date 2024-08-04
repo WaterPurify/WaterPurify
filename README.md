@@ -2,6 +2,10 @@
 
 
 <div align="center">
+
+<!-- Header banner with text -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066b2,25:0d98ba,50:002ed4,75:d4002e,100:00ad43&height=200&section=header&text=Hello%20World!&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20profile&descAlignY=80&descAlign=65" width="100%"/>
+
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&?color=0:#0066b2,25:#0d98ba,50:#002ed4,75:#d4002e,100:#00ad43&height=100&section=header&text=&fontSize=0" width="100%"/>
 <br><br>
