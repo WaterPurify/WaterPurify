@@ -68,6 +68,7 @@ Master Degree of Electrical and Elecronic engineering ```(09/2021 ~ 08/2023)``` 
 
 <!-- My snake -->
 <img src="https://github.com/junia3/junia3/blob/output/mysnake.svg" width="100%">
+<img src="https://github.com/WaterPurify/WaterPurify/blob/output/github-snake-dark.svg" width="100%">
 <br><br>
 <!-- Hit counter -->
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunia3&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
