@@ -17,14 +17,14 @@
 <details>
 <summary><b>About Me</b></summary>
 
-<div align="left">  
+<div align="center">  
 
 ## 🎁 OBJECTIVE
-AI Research & Scientist  
+* AI Research & Scientist  
 
 ## 🗒️ EDUCATION
-Bachelor Degree of Electrical and Electronic engineering ```(09/2014 ~ 05/2021)``` (Texas A&M University, College Station)   
-Master Degree of Electrical and Elecronic engineering ```(09/2021 ~ 08/2023)``` (Sogang University, Seoul)   
+* Bachelor Degree of Electrical and Electronic engineering ```(09/2014 ~ 05/2021)``` (Texas A&M University, College Station)   
+* Master Degree of Electrical and Elecronic engineering ```(09/2021 ~ 08/2023)``` (Sogang University, Seoul)   
 
 ## 🛠️ TECK STACKS
 <span>
