@@ -9,7 +9,10 @@
 <!-- Title Typing Effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=🐔I'm+Youngsu+Jo;🚀Deep+Learning+Scientist" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=#0064000&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=🐔I'm+Youngsu+Jo;🚀Deep+Learning+Scientist" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=32CD32&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=🐔I'm+Youngsu+Jo;🚀Deep+Learning+Scientist" alt="Typing SVG" /></a>
+
+
 
 <!-- My CV/resume -->
 <details>
