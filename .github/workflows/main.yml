@@ -22,7 +22,7 @@ jobs:
           github_user_name: WaterPurify
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?color_snake=#58ff6e&color_dots=#EEEEEE,#E1BEE7,#BA68C8,#8E24AA,#4A148C?palette=github-dark
+            dist/github-snake-dark.svg?color_snake=#58ff6e&color_dots=#EEEEEE,#C8E6C9,#81C784,#388E3C,#1B5E20?palette=github-dark
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
