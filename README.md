@@ -5,9 +5,7 @@
 
 <!-- Header banner with text -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066b2,25:0d98ba,50:002ed4,75:d4002e,100:00ad43&height=200&section=header&text=👋Hello!%20&fontSize=70&fontColor=ffffff&animation=fadeIn&descAlignY=80&descAlign=65" width="100%"/>
-    
-<!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=🐔I'm+Youngsu+Jo;🚀Deep+Learning+Scientist" alt="Typing SVG" /></a>
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=1E90FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=🐔I'm+Youngsu+Jo;🚀Deep+Learning+Scientist" alt="Typing SVG" /></a>
 
