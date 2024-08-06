@@ -21,7 +21,6 @@
 
 ## 🎁 OBJECTIVE
 ### AI Research & Scientist  
-<br><br>
 Computer Vision & LLM   
 ## 🗒️ EDUCATION
 <b> Bachelor Degree of Electrical and Electronic engineering </b>```(09/2014 ~ 05/2021)``` (Texas A&M University, College Station)
