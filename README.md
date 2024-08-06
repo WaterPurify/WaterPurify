@@ -23,7 +23,8 @@
 ### AI Research & Scientist  
 Computer Vision & LLM   
 ## 🗒️ EDUCATION
-<b> Bachelor Degree of Electrical and Electronic engineering </b>```(09/2014 ~ 05/2021)``` (Texas A&M University, College Station)
+<b> Bachelor Degree of Electrical and Electronic engineering </b><br>
+```(09/2014 ~ 05/2021)``` (Texas A&M University, College Station)
 <br><br>
 <b> Master Degree of Electrical and Elecronic engineering  </b> ```(09/2021 ~ 08/2023)``` (Sogang University, Seoul) 
 
