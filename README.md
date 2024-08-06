@@ -20,7 +20,7 @@
 <div align="center">  
 
 ## 🎁 OBJECTIVE
-<b>AI Research & Scientist </b> 
+### AI Research & Scientist  
 <br><br>
 Computer Vision & LLM   
 ## 🗒️ EDUCATION
