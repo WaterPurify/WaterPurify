@@ -20,8 +20,10 @@
 <div align="center">  
 
 ## 🎁 OBJECTIVE
-### AI Research & Scientist  
-Computer Vision & LLM
+### AI Research & Scientist
+<br>
+* Computer Vision & LLM
+<br>
 -Autonomous driving
 -Medical
 ## 🗒️ EDUCATION
