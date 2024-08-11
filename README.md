@@ -22,9 +22,6 @@
 ## 🎁 OBJECTIVE
 ### AI Research & Scientist
  #### Computer Vision & LLM
-<br>
-* Autonomous driving
-* Medical
 
 ## 🗒️ EDUCATION
 ### Bachelor Degree of Electrical and Electronic engineering
