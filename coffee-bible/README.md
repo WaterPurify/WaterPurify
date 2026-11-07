@@ -27,8 +27,8 @@ npm start
 Dev Container를 쓰지 않고 Docker Compose만 사용할 수도 있습니다.
 
 ```bash
-cp .env.example .env
-# .env의 REACT_NATIVE_PACKAGER_HOSTNAME을 개발 PC의 같은 Wi-Fi IP로 변경
+cp .env.local.example .env.local
+# .env.local의 REACT_NATIVE_PACKAGER_HOSTNAME을 개발 PC의 같은 Wi-Fi IP로 변경
 docker compose up --build
 ```
 
