@@ -1,0 +1,24 @@
+services:
+  app:
+    build:
+      context: .
+    working_dir: /app
+    command: npm start -- --lan
+    ports:
+      - "8081:8081"
+      - "19000:19000"
+      - "19001:19001"
+      - "19002:19002"
+    volumes:
+      - .:/app
+      - coffee_bible_node_modules:/app/node_modules
+    env_file:
+      - path: .env.local
+        required: false
+    environment:
+      EXPO_NO_TELEMETRY: "1"
+    stdin_open: true
+    tty: true
+
+volumes:
+  coffee_bible_node_modules:
